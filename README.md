@@ -1,4 +1,4 @@
-# Expense Tracker (PhonePe Analyzer)
+# Expense Tracker (bank statement Analyzer)
 
 This is a small Flask app prepared to run in VS Code.
 
